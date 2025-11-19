@@ -1,27 +1,20 @@
 # mi-primer-repositorio
-mi-primer-repositorio
+Este repositorio contiene una estructura básica de carpetas y archivos creada para practicar la organización de datos usando GitHub.
 
-Este repositorio contiene una estructura básica de carpetas y archivos utilizada para practicar la organización de datos y el uso de GitHub.
+##  Contenido del repositorio
 
- Contenido del repositorio
- datos_ventas/
+### ** datos_ventas/**
+Carpeta que almacena archivos relacionados con ventas.
+- **ventas.csv**: Contiene datos de ejemplo de ventas, incluyendo producto, cantidad, precio unitario y total.
 
-Carpeta que incluye archivos relacionados con ventas.
+### ** datos_clientes/**
+Carpeta destinada a información de clientes.
+- **clientes.csv**: Contiene datos ficticios de clientes como nombre, apellido, correo electrónico y número de teléfono.
 
-ventas.csv: Archivo con datos de ejemplo sobre ventas (producto, cantidad, precio y total).
+##  Propósito del repositorio
+Este repositorio sirve para practicar:
+- Creación y organización de carpetas.
+- Manejo de archivos en formato CSV.
+- Uso básico de GitHub para guardar y visualizar datos.
 
- datos_clientes/
 
-Carpeta destinada a almacenar información de clientes.
-
-clientes.csv: Archivo con datos ficticios de clientes (nombre, apellido, correo y teléfono).
-
- Propósito del repositorio
-
-Este repositorio fue creado para practicar:
-
-La creación de carpetas y archivos en GitHub.
-
-El uso del formato CSV.
-
-La organización básica de información.
